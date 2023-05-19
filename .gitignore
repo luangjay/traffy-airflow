@@ -1,0 +1,15 @@
+# pycache
+/**/__pycache__
+
+# airflow
+/logs
+/airflow.cfg
+/airflow.db
+/airflow-webserver.pid
+/webserver_config.py
+
+# mlflow
+/mlruns
+
+# outputs
+/outputs
